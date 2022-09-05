@@ -1,0 +1,7 @@
+.wrap{
+    height: 100vh;
+    background-image:url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fmanager-file.aiyoukit.com%2Fimg%2Fpicture%2F1ed591e101894934933ee9cd011364f9_1637033199650.jpeg&refer=http%3A%2F%2Fmanager-file.aiyoukit.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1662123044&t=b6eb164c373a5cd8acdee06698592799") ;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

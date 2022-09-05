@@ -1,0 +1,81 @@
+.contents{display: flex; flex-wrap: wrap}
+.info {
+    text-align: center;
+    padding: 0 24px;
+    flex-grow: 1;
+    flex-shrink: 0;
+    align-self: center;}
+.info_span {
+      color: rgba(0, 0, 0, 0.45);
+      display: inline-block;
+      font-size: 14px;
+      margin-bottom: 4px;
+    }
+.info_p {
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 24px;
+  margin: 0;
+}
+
+.events {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.events .ant-badge-status {
+  width: 100%;
+  overflow: hidden;
+  font-size: 12px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.notes-month {
+  font-size: 28px;
+  text-align: center;
+}
+.notes-month section {
+  font-size: 28px;
+}
+
+.gridStyle {
+ width: 25%;
+ text-align: center;
+}
+
+.welcome{
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.85);
+  margin-bottom: 16px;
+}
+
+.todo{
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.items{
+  color: rgba(0, 0, 0, 0.45);
+  display: inline-block;
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+.count{
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 24px;
+  margin: 0;
+}
+
+
+.todo div{
+  border-right: 1px solid rgba(98, 98, 98, 0.2);
+  padding: 0 24px;
+}
+
+
+
+
+
+
+
