@@ -1,3 +1,8 @@
+# 用户账号
+该项目设置了权限管理，因此不同权限的账号登录后渲染的页面是不同的。\
+管理员账号：xuchao 密码：123456\
+学生账号：13071988950 密码：zx1041561837
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
